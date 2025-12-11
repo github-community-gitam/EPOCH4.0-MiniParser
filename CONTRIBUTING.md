@@ -23,7 +23,7 @@ Mini-Parser aims to:
 
 2. **Create a branch**
    ```bash
-   git checkout -b feature/your-feature-name
+   git checkout -b <feature-name>
    ```
 
 3. **Make sure tests pass**
