@@ -93,7 +93,7 @@ result = interpreter.evaluate(ast)
 print(result)  # Output: 13.0
 ```
 
-## 📚 How It Works
+## How It Works
 
 The parser follows a three-stage pipeline:
 
@@ -153,7 +153,7 @@ python test_parser.py
 
 All 27 tests should pass!
 
-## 📖 Learning Resources
+##  Learning Resources
 
 ### Key Concepts Demonstrated
 
@@ -221,7 +221,4 @@ For questions, suggestions, or collaboration:
 - [Compiler Construction](https://en.wikipedia.org/wiki/Compiler) on Wikipedia
 
 ---
-
-**Happy Parsing! 🎉**
-
-Start with the examples, run the tests, and don't hesitate to experiment with the code!
+All the best!
