@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to Mini-Parser! This project is designed to be educational and collaborative. We welcome contributions from developers of all skill levels.
 
-## 🎯 Project Goals
+##  Project Goals
 
 Mini-Parser aims to:
 1. **Educate**: Help others learn about parsing, tokenization, and AST construction
@@ -10,7 +10,7 @@ Mini-Parser aims to:
 3. **Documentation**: Maintain clear, comprehensive documentation
 4. **Collaboration**: Provide a friendly environment for learning and contribution
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Setting Up Your Development Environment
 
@@ -42,7 +42,7 @@ Before contributing, familiarize yourself with:
 
 Read the code comments - they explain the design decisions!
 
-## 📋 How to Contribute
+##  How to Contribute
 
 ### 1. Report Bugs
 
@@ -177,7 +177,7 @@ def test_operator_precedence(self):
    python test_parser.py
    ```
 
-## 🔄 Pull Request Process
+##  Pull Request Process
 
 1. **Update your fork**
    ```bash
@@ -217,7 +217,7 @@ def test_operator_precedence(self):
    - Make requested changes
    - Ask questions if unclear
 
-## 💡 Ideas for Contributions
+##  Ideas for Contributions
 
 ### Beginner-Friendly
 
@@ -241,14 +241,14 @@ def test_operator_precedence(self):
 - Add support for different number formats (binary, hex)
 - Build a web interface
 
-## 🤔 Questions?
+##  Questions?
 
 - **General questions**: Open a GitHub discussion
 - **Bug reports**: Open an issue
 - **Feature requests**: Open an issue
 - **Need help getting started?**: Comment on a "good first issue"
 
-## 📜 Code of Conduct
+##  Code of Conduct
 
 Be respectful, constructive, and welcoming:
 - Be patient with newcomers
@@ -256,7 +256,7 @@ Be respectful, constructive, and welcoming:
 - Focus on the code, not the person
 - Help others learn
 
-## 🎓 Learning While Contributing
+##  Learning While Contributing
 
 Contributing is a great way to learn! Don't worry if:
 - You're new to parsers or compilers
@@ -265,7 +265,7 @@ Contributing is a great way to learn! Don't worry if:
 
 We're here to help you learn and grow.
 
-## 🙏 Recognition
+##  Recognition
 
 All contributors will be:
 - Listed in the repository
@@ -273,7 +273,3 @@ All contributors will be:
 - Celebrated in our community
 
 ---
-
-**Thank you for contributing to Mini-Parser!**
-
-Your contributions help others learn about parsing and compilers. Every contribution, no matter how small, makes a difference! 🌟
