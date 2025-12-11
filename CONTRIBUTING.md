@@ -21,7 +21,7 @@ Mini-Parser aims to:
    cd Mini-Parser
    ```
 
-2. **Create a branch**
+2. **Create a branch and switch to it**
    ```bash
    git checkout -b <feature-name>
    ```
