@@ -31,17 +31,6 @@ Mini-Parser aims to:
    python test_parser.py
    ```
 
-### Understanding the Codebase
-
-Before contributing, familiarize yourself with:
-
-- **`tokenizer.py`**: Lexical analysis (breaking text into tokens)
-- **`parser.py`**: Syntax analysis (building AST) and evaluation
-- **`mini_parser.py`**: Command-line interface
-- **`test_parser.py`**: Test suite
-
-Read the code comments - they explain the design decisions!
-
 ##  How to Contribute
 
 ### 1. Report Bugs
