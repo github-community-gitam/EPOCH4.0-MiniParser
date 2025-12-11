@@ -5,8 +5,16 @@ A simple, educational mathematical expression parser written in Python. This pro
 - **Syntax Analysis** (Parsing)
 - **Abstract Syntax Trees** (AST)
 - **Interpreter Design**
+- 
+### Understanding the Codebase
 
-Perfect for students, beginners, and anyone interested in understanding how parsers work!
+Before contributing, familiarize yourself with:
+
+- **`tokenizer.py`**: Lexical analysis (breaking text into tokens)
+- **`parser.py`**: Syntax analysis (building AST) and evaluation
+- **`mini_parser.py`**: Command-line interface
+- **`test_parser.py`**: Test suite
+
 
 ##  What This Parser Does
 
