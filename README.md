@@ -8,7 +8,7 @@ A simple, educational mathematical expression parser written in Python. This pro
 
 Perfect for students, beginners, and anyone interested in understanding how parsers work!
 
-## 🎯 What This Parser Does
+##  What This Parser Does
 
 The Mini-Parser evaluates mathematical expressions with:
 - **Basic operators**: `+`, `-`, `*`, `/`
@@ -27,7 +27,7 @@ The Mini-Parser evaluates mathematical expressions with:
 -5 + 10                 # Result: 5 (unary minus)
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -138,7 +138,7 @@ Result: 13.0
 
 **File**: `parser.py`
 
-## 🧪 Running Tests
+##  Running Tests
 
 The project includes comprehensive tests covering:
 - Tokenization edge cases
@@ -189,7 +189,7 @@ Mini-Parser/
 └── examples/         # Example scripts
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! This project is designed to be educational and collaborative.
 
@@ -212,35 +212,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - Add step-by-step execution mode
 - Support different number bases (binary, hex)
 
-## 📝 License
-
-This project is open source and available for educational purposes.
-
-## 🎓 Educational Value
-
-This parser is intentionally kept simple to serve as a learning tool. The code includes:
-- **Extensive comments** explaining each decision
-- **Clear variable names** for readability
-- **Docstrings** for every class and function
-- **Error messages** that help understand what went wrong
-- **Examples** throughout the codebase
-
-## 🌟 Credits
-
-Created as an educational resource for learning about parsers and compilers.
-
-## 📬 Contact
+##  Contact
 
 For questions, suggestions, or collaboration:
 - Open an issue on GitHub
 - Submit a pull request
 - Start a discussion
-
-## 🔗 Additional Resources
-
-To learn more about parsers and compilers:
-- [Crafting Interpreters](https://craftinginterpreters.com/) by Robert Nystrom
-- [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/) by Ruslan Spivak
 - [Compiler Construction](https://en.wikipedia.org/wiki/Compiler) on Wikipedia
 
 ---
