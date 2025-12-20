@@ -5,7 +5,6 @@ A simple, educational mathematical expression parser written in Python. This pro
 - **Syntax Analysis** (Parsing)
 - **Abstract Syntax Trees** (AST)
 - **Interpreter Design**
-- 
 ### Understanding the Codebase
 
 Before contributing, familiarize yourself with:
