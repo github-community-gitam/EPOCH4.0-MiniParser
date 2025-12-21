@@ -104,6 +104,17 @@ print(result)  # Output: 13.0
 
 The parser follows a three-stage pipeline:
 
+### Overall Flow
+
+Input Expression
+      ↓
+Tokenizer (tokens)
+      ↓
+Parser (AST)
+      ↓
+Interpreter (result)
+
+
 ### 1. Tokenization (Lexical Analysis)
 
 The `Tokenizer` breaks the input string into tokens:
